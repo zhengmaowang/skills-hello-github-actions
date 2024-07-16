@@ -1,4 +1,9 @@
 <header>
+# Introduction
+
+name: Rock Wang
+email: rockwang415@outlook.com
+hobbies: hiking, reading 
 
 # Hello GitHub Actions
 
